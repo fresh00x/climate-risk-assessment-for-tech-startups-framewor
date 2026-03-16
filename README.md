@@ -1,6 +1,6 @@
 # climate-risk-assessment-for-tech-startups-frameworks--tools
 
-This comprehensive guide offers entrepreneurs a step-by-step approach to climate risk assessment for tech startups. It presents key findings and frameworks, along with practical implementation guidanc
+This comprehensive guide provides entrepreneurs with the necessary tools and frameworks to assess climate risks effectively. By understanding these risks and implementing practical steps, startups can
 
 ## Dataset Info
 
